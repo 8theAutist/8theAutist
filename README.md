@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @8theAutist
+- 👋 Hi, I’m @8theAutist, ei9h7... or just 8!
 - 👀 I’m interested in cryptography
-- 🌱 I’m currently learning ruby and git
+- 🌱 I’m currently learning shell and git
 - 💞️ I’m looking to collaborate anything
 - 📫 you can reach me at 8thevirulent@gmail.com
 
